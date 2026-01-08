@@ -1,6 +1,0 @@
-pdw
-nano
-mkdir
-ls
-cat
-zip

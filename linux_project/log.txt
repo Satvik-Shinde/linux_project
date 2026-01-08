@@ -1,5 +1,0 @@
-mkdir linux_project
-  cd linux_project
-  touch profile.txt commands.txt log.txt
-  nano profile.txt
-  nano commands.txt
